@@ -20,20 +20,20 @@ public class Main {
 		ArrayList<Worker> ptpus = new ArrayList<Worker>();
 		System.out.print(apos.toString());
 		System.out.print("\n");
-		/*
+		
 		Apotheker kristin = new Apotheker("Hortmann",40);
 		Pta lisa = new Pta("Perez",54);
 		Apotheker melanie = new Apotheker("Seidling",50);
 		Pta peter = new Pta("Tegethof",20);
 		Pta Kata = new Pta("Berwanger",20);
 		Pta Flo = new Pta("Hoff",50);
-		ArrayList<Worker> ptpus = new ArrayList<Worker>();
+		//ArrayList<Worker> ptpus = new ArrayList<Worker>();
 		ptpus.add(kristin);
 		ptpus.add(lisa);
 		ptpus.add(melanie);
 		ptpus.add(peter);
 		ptpus.add(Kata);
-		ptpus.add(Flo);*/
+		ptpus.add(Flo);
 		
 		
 		
