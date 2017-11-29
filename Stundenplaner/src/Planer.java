@@ -8,7 +8,7 @@ import java.util.Collections;
 public class Planer {
 	ArrayList<Worker> workers;
 	ArrayList<Apotheke> apotheke;
-	
+	/*test*/
 	public Planer(ArrayList<Worker> workers,ArrayList<Apotheke> apotheke){
 			this.workers = workers;
 			this.apotheke = apotheke;
