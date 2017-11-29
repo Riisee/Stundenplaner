@@ -18,8 +18,8 @@ public class Main {
 		apos.add(post);
 		apos.add(bhf);
 		ArrayList<Worker> ptpus = new ArrayList<Worker>();
-		//System.out.print(apos.toString());
-		//System.out.print("\n");
+		System.out.print(apos.toString());
+		System.out.print("\n");
 		/*
 		Apotheker kristin = new Apotheker("Hortmann",40);
 		Pta lisa = new Pta("Perez",54);
