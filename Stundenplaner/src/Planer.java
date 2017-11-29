@@ -92,6 +92,7 @@ public class Planer {
 	 * @param weekday the weekday currently booking
 	 */
 	public int book(int apo,int weekday){
+		/*letsgooo*/
 		if(workers.size()<1){return -1;}
 		if(apotheke.size()<1){return -1;}
 		/*var creation and initialization*/
